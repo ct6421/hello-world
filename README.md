@@ -17,3 +17,4 @@ Hello! I'm **Christopher Trimm**, a developer based in **Simi Valley, California
 | :--- | :--- |
 | **Learning** | AI Prompting, Git, GitHub |
 | **Lifestyle** | Fitness Tracking, Language Learning |
+|style: remove redundant name lne|
